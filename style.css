@@ -70,7 +70,7 @@ a, a:visited  {
 
 /* Style for category paragraphs */
 .category-paragraph {
-    max-width: 800px;
+    max-width: 1000px;
     font-size: 1em;
     line-height: 1.6;
     color: #444444;
